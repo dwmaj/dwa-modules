@@ -1,0 +1,17 @@
+html {
+  font-size: calc(1em * 0.625);
+}
+
+body {
+  max-width: 64rem;
+  margin: 2rem auto;
+  background: $c-bg;
+  font: 1.6rem / 1.75 sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.lead {
+  font-size: 1.15em;
+  font-style: italic;
+}
